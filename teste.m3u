@@ -1,0 +1,25 @@
+#EXTM3U
+# Lista de teste do ShirouTV. So videos com licenca que permite exibir e redistribuir.
+# Nao contem conteudo protegido por direitos autorais de terceiros.
+#
+# --- Filmes abertos da Blender Foundation (sem alteracoes) ---
+# Big Buck Bunny (c) Blender Foundation | peach.blender.org | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | copia no Internet Archive
+#EXTINF:-1 group-title="Vídeos livres" tvg-id="bbb",Big Buck Bunny (720p)
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+# Sintel - trailer (c) Blender Foundation | durian.blender.org | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | download.blender.org
+#EXTINF:-1 group-title="Vídeos livres" tvg-id="sintel",Sintel - trailer (720p)
+https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4
+# Tears of Steel (c) Blender Foundation | mango.blender.org | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | download.blender.org
+#EXTINF:-1 group-title="Vídeos livres" tvg-id="tos",Tears of Steel (720p)
+https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
+# Elephants Dream (c) Blender Foundation | orange.blender.org | CC BY 2.5 (https://creativecommons.org/licenses/by/2.5/) | download.blender.org
+#EXTINF:-1 group-title="Vídeos livres" tvg-id="ed",Elephants Dream (480p)
+https://download.blender.org/ED/elephantsdream-480-h264-st-aac.mov
+#
+# --- Transmissões HLS de teste (para simular "Ao vivo") ---
+# filme: Big Buck Bunny (c) Blender Foundation, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/); transmissao hospedada por test-streams.mux.dev como demonstracao publica de teste
+#EXTINF:-1 group-title="Transmissões de teste" tvg-id="teste-bbb",Teste HLS - Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+# filme: Tears of Steel (c) Blender Foundation, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/); transmissao hospedada por demo.unified-streaming.com como demonstracao publica de teste
+#EXTINF:-1 group-title="Transmissões de teste" tvg-id="teste-tos",Teste HLS - Tears of Steel
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
