@@ -16,6 +16,15 @@ https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
 #EXTINF:-1 group-title="Vídeos livres" tvg-id="ed",Elephants Dream (480p)
 https://download.blender.org/ED/elephantsdream-480-h264-st-aac.mov
 #
+# --- Série animada (para preencher "Séries") ---
+# Caminandes, de Pablo Vazquez / Blender Foundation | caminandes.com | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | archive.org (itens oficiais com a licença)
+#EXTINF:-1 group-title="Séries livres" tvg-id="cam1",Caminandes S01E01 - Llama Drama
+https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
+#EXTINF:-1 group-title="Séries livres" tvg-id="cam2",Caminandes S01E02 - Gran Dillama
+https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4
+#EXTINF:-1 group-title="Séries livres" tvg-id="cam3",Caminandes S01E03 - Llamigos
+https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4
+#
 # --- Transmissões HLS de teste (para simular "Ao vivo") ---
 # filme: Big Buck Bunny (c) Blender Foundation, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/); transmissao hospedada por test-streams.mux.dev como demonstracao publica de teste
 #EXTINF:-1 group-title="Transmissões de teste" tvg-id="teste-bbb",Teste HLS - Big Buck Bunny

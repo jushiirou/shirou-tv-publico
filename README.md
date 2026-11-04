@@ -19,8 +19,8 @@ Depois confira que não sobrou nenhum marcador: `grep -rn "EMAIL_SUPORTE\|URL_LI
 
 ## Limites da lista de teste
 
-- O app separa os itens da lista M3U: os **filmes** (links `/movie/` ou arquivos de vídeo como `.mp4`, `.mkv`, `.mov`) vão para **Filmes**; o resto fica em **Ao vivo**. Com esta lista: 4 filmes em Filmes e 2 transmissões em Ao vivo. **Séries** só são preenchidas por fontes Xtream.
-- Para o revisor do Google e para os testadores, a lista cobre Ao vivo e Filmes. Para mostrar Séries seria preciso uma fonte Xtream própria com conteúdo livre.
+- O app separa os itens da lista M3U: os **filmes** (links `/movie/` ou arquivos de vídeo como `.mp4`, `.mkv`, `.mov`) vão para **Filmes**; o resto fica em **Ao vivo**. Os **episódios** (links `/series/` ou nomes como "S01E02") viram **Séries**. Com esta lista: 2 transmissões em Ao vivo, 4 filmes em Filmes e 1 série (Caminandes, 3 episódios) em Séries.
+- Para o revisor do Google e para os testadores, a lista cobre Ao vivo, Filmes e Séries.
 - Os links apontam para servidores de terceiros (Internet Archive, download.blender.org, Mux, Unified Streaming). Se algum sair do ar, troque o link e revise a licença anotada. Verificados em 01/11/2026.
 
 ## Créditos / Credits
@@ -33,5 +33,6 @@ Todos os filmes são usados sem alterações. © Blender Foundation.
 | Sintel (trailer) | durian.blender.org | CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/ |
 | Tears of Steel | mango.blender.org | CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/ |
 | Elephants Dream | orange.blender.org | CC BY 2.5 - https://creativecommons.org/licenses/by/2.5/ |
+| Caminandes (Llama Drama, Gran Dillama, Llamigos) | caminandes.com (Pablo Vazquez / Blender Foundation) | CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/ |
 
 As duas transmissões HLS de teste (Mux e Unified Streaming) exibem Big Buck Bunny e Tears of Steel, hospedadas por esses serviços como demonstração pública.
