@@ -39,7 +39,7 @@ As duas transmissões HLS de teste (Mux e Unified Streaming) exibem Big Buck Bun
 
 ## Capas (pasta `capas/`)
 
-Cópias reduzidas, sem outras alterações, tiradas da Wikimedia Commons. Mesma licença dos filmes.
+Cópias reduzidas, tiradas da Wikimedia Commons (só a capa da Caminandes foi recortada, como indicado). Mesma licença dos filmes.
 
 | Arquivo | Origem | Licença |
 |---|---|---|
@@ -47,4 +47,4 @@ Cópias reduzidas, sem outras alterações, tiradas da Wikimedia Commons. Mesma 
 | `sintel.jpg` | https://commons.wikimedia.org/wiki/File:Sintel_poster.jpg (Blender Foundation) | CC BY 3.0 |
 | `tears-of-steel.png` | https://commons.wikimedia.org/wiki/File:Tos-poster.png (Blender Foundation) | CC BY 3.0 |
 | `elephants-dream.jpg` | https://commons.wikimedia.org/wiki/File:ElephantsDreamPoster.jpg (Blender Foundation) | CC BY 4.0 |
-| `caminandes.png` | https://commons.wikimedia.org/wiki/File:Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png (Blender Foundation) | CC BY 3.0 |
+| `caminandes-vertical.jpg` | https://commons.wikimedia.org/wiki/File:Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png (Blender Foundation). **Alterada:** recorte vertical da parte de cima, sem o título. | CC BY 3.0 |
