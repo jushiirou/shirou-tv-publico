@@ -6,6 +6,7 @@ Estes arquivos vão para um repositório público separado (por exemplo `jushiir
 |---|---|
 | `teste.m3u` | Lista de teste, só com vídeos de licença livre. Cada item tem a licença anotada em comentário. |
 | `privacidade.html` | Política de privacidade (link exigido pela Play Console). |
+| `ajuda.html` | Ajuda para clientes: como pagar (passe com Pix ou assinatura) e "não consigo assinar". Vai no campo "Site" da loja. |
 | `testadores.html` | Instruções para testadores, em português e inglês. |
 
 ## Marcadores a substituir antes de publicar
