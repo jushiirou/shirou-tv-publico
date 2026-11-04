@@ -4,25 +4,25 @@
 #
 # --- Filmes abertos da Blender Foundation (sem alteracoes) ---
 # Big Buck Bunny (c) Blender Foundation | peach.blender.org | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | copia no Internet Archive
-#EXTINF:-1 group-title="Vídeos livres" tvg-id="bbb",Big Buck Bunny (720p)
+#EXTINF:-1 group-title="Vídeos livres" tvg-id="bbb" tvg-logo="https://jushiirou.github.io/shirou-tv-publico/capas/big-buck-bunny.jpg",Big Buck Bunny (720p)
 https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
 # Sintel - trailer (c) Blender Foundation | durian.blender.org | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | download.blender.org
-#EXTINF:-1 group-title="Vídeos livres" tvg-id="sintel",Sintel - trailer (720p)
+#EXTINF:-1 group-title="Vídeos livres" tvg-id="sintel" tvg-logo="https://jushiirou.github.io/shirou-tv-publico/capas/sintel.jpg",Sintel - trailer (720p)
 https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4
 # Tears of Steel (c) Blender Foundation | mango.blender.org | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | download.blender.org
-#EXTINF:-1 group-title="Vídeos livres" tvg-id="tos",Tears of Steel (720p)
+#EXTINF:-1 group-title="Vídeos livres" tvg-id="tos" tvg-logo="https://jushiirou.github.io/shirou-tv-publico/capas/tears-of-steel.png",Tears of Steel (720p)
 https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
 # Elephants Dream (c) Blender Foundation | orange.blender.org | CC BY 2.5 (https://creativecommons.org/licenses/by/2.5/) | download.blender.org
-#EXTINF:-1 group-title="Vídeos livres" tvg-id="ed",Elephants Dream (480p)
+#EXTINF:-1 group-title="Vídeos livres" tvg-id="ed" tvg-logo="https://jushiirou.github.io/shirou-tv-publico/capas/elephants-dream.jpg",Elephants Dream (480p)
 https://download.blender.org/ED/elephantsdream-480-h264-st-aac.mov
 #
 # --- Série animada (para preencher "Séries") ---
 # Caminandes, de Pablo Vazquez / Blender Foundation | caminandes.com | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | archive.org (itens oficiais com a licença)
-#EXTINF:-1 group-title="Séries livres" tvg-id="cam1",Caminandes S01E01 - Llama Drama
+#EXTINF:-1 group-title="Séries livres" tvg-id="cam1" tvg-logo="https://jushiirou.github.io/shirou-tv-publico/capas/caminandes.png",Caminandes S01E01 - Llama Drama
 https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
-#EXTINF:-1 group-title="Séries livres" tvg-id="cam2",Caminandes S01E02 - Gran Dillama
+#EXTINF:-1 group-title="Séries livres" tvg-id="cam2" tvg-logo="https://jushiirou.github.io/shirou-tv-publico/capas/caminandes.png",Caminandes S01E02 - Gran Dillama
 https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4
-#EXTINF:-1 group-title="Séries livres" tvg-id="cam3",Caminandes S01E03 - Llamigos
+#EXTINF:-1 group-title="Séries livres" tvg-id="cam3" tvg-logo="https://jushiirou.github.io/shirou-tv-publico/capas/caminandes.png",Caminandes S01E03 - Llamigos
 https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4
 #
 # --- Transmissões HLS de teste (para simular "Ao vivo") ---

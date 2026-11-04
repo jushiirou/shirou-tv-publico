@@ -36,3 +36,15 @@ Todos os filmes são usados sem alterações. © Blender Foundation.
 | Caminandes (Llama Drama, Gran Dillama, Llamigos) | caminandes.com (Pablo Vazquez / Blender Foundation) | CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/ |
 
 As duas transmissões HLS de teste (Mux e Unified Streaming) exibem Big Buck Bunny e Tears of Steel, hospedadas por esses serviços como demonstração pública.
+
+## Capas (pasta `capas/`)
+
+Cópias reduzidas, sem outras alterações, tiradas da Wikimedia Commons. Mesma licença dos filmes.
+
+| Arquivo | Origem | Licença |
+|---|---|---|
+| `big-buck-bunny.jpg` | https://commons.wikimedia.org/wiki/File:Big_buck_bunny_poster_big.jpg (Blender Foundation) | CC BY 3.0 |
+| `sintel.jpg` | https://commons.wikimedia.org/wiki/File:Sintel_poster.jpg (Blender Foundation) | CC BY 3.0 |
+| `tears-of-steel.png` | https://commons.wikimedia.org/wiki/File:Tos-poster.png (Blender Foundation) | CC BY 3.0 |
+| `elephants-dream.jpg` | https://commons.wikimedia.org/wiki/File:ElephantsDreamPoster.jpg (Blender Foundation) | CC BY 4.0 |
+| `caminandes.png` | https://commons.wikimedia.org/wiki/File:Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png (Blender Foundation) | CC BY 3.0 |
