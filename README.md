@@ -19,8 +19,8 @@ Depois confira que não sobrou nenhum marcador: `grep -rn "EMAIL_SUPORTE\|URL_LI
 
 ## Limites da lista de teste
 
-- O importador de M3U do app põe **todos** os itens em **Ao vivo**; o `group-title` só organiza as categorias. **Filmes e Séries só são preenchidos por fontes Xtream**, não por M3U. Por isso a lista de teste não consegue exercitar Filmes nem Séries (e não fingimos que sim).
-- Para o revisor do Google e para os testadores, Ao vivo é a área que a lista cobre. Para mostrar Filmes e Séries nas capturas de tela seria preciso uma fonte Xtream própria com conteúdo livre.
+- O app separa os itens da lista M3U: os **filmes** (links `/movie/` ou arquivos de vídeo como `.mp4`, `.mkv`, `.mov`) vão para **Filmes**; o resto fica em **Ao vivo**. Com esta lista: 4 filmes em Filmes e 2 transmissões em Ao vivo. **Séries** só são preenchidas por fontes Xtream.
+- Para o revisor do Google e para os testadores, a lista cobre Ao vivo e Filmes. Para mostrar Séries seria preciso uma fonte Xtream própria com conteúdo livre.
 - Os links apontam para servidores de terceiros (Internet Archive, download.blender.org, Mux, Unified Streaming). Se algum sair do ar, troque o link e revise a licença anotada. Verificados em 01/11/2026.
 
 ## Créditos / Credits
